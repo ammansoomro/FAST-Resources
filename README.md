@@ -61,3 +61,9 @@ Semester 06:
 - Software Construction and Development (Lab
 - Software Construction and Development (Lab)
 
+Semester 07:
+- Design Defects and Reconstruction (Elective)
+- Agile Project Management (Elective)
+- Information Processing Techniques
+- Information Security
+- Professional Practices In IT
