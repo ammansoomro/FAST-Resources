@@ -1,0 +1,21 @@
+
+HTML <META> Tag
+===============
+* Can record document information
+* Forward and refresh pages
+
+<HEAD>
+  <TITLE>Why You Should Buy Windows 2000</TITLE>
+  <BASE HREF="http://www.microsoft.com/windows2000/">
+  <META NAME="author" CONTENT="Bill Gates">
+  <META NAME="keywords" 
+        CONTENT="Windows,Advocacy,OS,Operating Systems">
+  <META NAME="description"
+        CONTENT="A summary of the advantages of Windows 2000.">
+</HEAD>
+
+
+<HEAD>
+  <TITLE>Why You Should Buy Windows 2000</TITLE>
+  <META HTTP-EQUIV="Refresh" CONTENT="30"> 
+</HEAD>

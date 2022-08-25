@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Using Bootstrap 3.4.1 as Bootstrap 5 & 4 does not have proper support for navbar -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <title></title>
+  </head>
+  <body>
+  <nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!--Logo -->
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">AlphaPeeler</a>
+    </div>
+    <!--Menu items -->
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">Home</a></li>
+      <li><a href="#">Services</a></li>
+      <li><a href="#">Products</a></li>
+      <li><a href="#">About Us</a></li>
+      <li><a href="#">Contact Us</a></li>
+      <!--Dropdown Menu -->
+      <li class="dropdown"> 
+        <a href="#" class="dropdown-toggle" data-ds-toggle="dropdown">My Profile <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+            <li><a href="#">Friends</a></li>
+            <li><a href="#">Photos</a></li>
+            <li><a href="#">Settings</a></li>
+        </ul>
+      </li>
+    </ul>
+    <!--right aligned  -->
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="#">Logout</a></li>
+    </ul>
+  </div>
+</nav>  
+<div class="container">
+  <h3>Navbar Example</h3>
+  <p>A navigation bar is a navigation header that is placed at the top of the page.</p>
+</div>
+  </body>
+</html>

@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap");
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Ubuntu",sans-serif;
+}
+body{
+    background-color: #131429;
+}
+div.container
+{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #10191e;
+    padding: 30px;
+    box-shadow: 0 30px 50px -30px #af1f25;
+}
+div.container div.form{
+    width: 500px;   
+    height: 500px;
+}
+div.container div.form h2 {
+    margin-top: 150px;
+    margin-left: 80px;
+    color: #af2023;
+    margin-bottom: 20px;
+    font-size: 35px;
+}
+div.container div.form input{
+    margin-left: 180px;
+    border: none;
+    outline: none;
+    border-radius:0;
+    width: 150px;
+    border-bottom: 2px solid #af2023;
+    margin-bottom: 25px;
+    padding: 7px 0;
+    background: transparent;  
+    font-size: 14px; 
+    color: white;
+}
+div.container div.form button {
+    color: white;
+    border: none;
+    outline: none;
+    background-color: #af2023;
+    border-radius:4px;
+    font-size: 15px;
+    padding:5px 40px;
+    font-weight: 500px;
+    margin-top: 50px;
+    margin-left: 160px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    transition: 0.2s;
+    width: 200px;
+    height: 50px
+}
+div.container div.form button:hover{
+    background-color: #5f1416;
+} 
+label{
+    color: #fff;    
+    font-size: 22px;
+    margin-left: 120px;
+}

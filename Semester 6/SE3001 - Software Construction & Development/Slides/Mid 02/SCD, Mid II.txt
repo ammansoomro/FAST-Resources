@@ -1,0 +1,49 @@
+Week 04-05
+Week 4 Slides + Chapter 24 Event Handling 
+Chapter 10 Exception Handling
+
+Week 07
+Chapters from Book.
+Chapter 10 Exception Handling (continued)
+Chapter 14 Generics
+
+Week 08
+From BookChapter 19: The Collections Framework
+Slides from GCR
+
+Week 09
+From BookChapter 19: The Collections Framework (Continued) 
+From Book: Head First Design Patterns by Eric Freeman
+Chapter 5. The Singleton Pattern: One of a Kind Objects
+Slides from GCR
+
+Week 10
+From Book: Head First Design Patterns by Eric Freeman
+Chapter 2. The Observer Pattern: Keeping your Objects in the know (Also use Week 9 Slides for Observer Pattern).
+Slides from GCR
+
+Week 11
+MVC, MVP, MVVM vagera vaali slides GCR se.
+
+
+Singleton Design Pattern:
+https://www.tutorialspoint.com/design_pattern/singleton_pattern.htm
+https://sourcemaking.com/design_patterns/singleton
+https://refactoring.guru/design-patterns/singleton
+https://www.geeksforgeeks.org/singleton-design-pattern/
+
+Observer Design Pattern:
+https://www.tutorialspoint.com/design_pattern/observer_pattern.htm
+https://sourcemaking.com/design_patterns/observer
+https://refactoring.guru/design-patterns/observer
+
+MVC MVP and MVVM Design Pattern:
+https://www.geeksforgeeks.org/mvc-design-pattern/#:~:text=The%20Model%20View%20Controller%20(MVC,but%20not%20for%20complete%20application.
+https://www.tutorialspoint.com/design_pattern/mvc_pattern.htm
+https://www.educative.io/blog/mvc-tutorial
+https://www.geeksforgeeks.org/mvp-model-view-presenter-architecture-pattern-in-android-with-example/
+
+https://medium.com/@ankit.sinhal/mvc-mvp-and-mvvm-design-pattern-6e169567bbad
+https://www.baeldung.com/mvc-vs-mvp-pattern
+https://www.developer.com/design/mvc-vs-mvp-vs-mvvm-design-patterns/
+https://stackoverflow.com/questions/2056/what-are-mvp-and-mvc-and-what-is-the-difference

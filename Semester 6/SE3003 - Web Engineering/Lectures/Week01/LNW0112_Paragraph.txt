@@ -1,0 +1,32 @@
+P – The Basic Paragraph
+========================
+
+* Attributes: ALIGN
+	* LEFT (default), RIGHT, CENTER. Same as headings.
+	* Whitespace ignored (use <BR> for line break)
+		- Consecutive <P>’s do not yield multiple blank lines
+	* End Tag is Optional:
+
+Example 1:
+ <BODY>
+ <P>
+ Paragraph 1
+ </P>
+ <P>
+ Paragraph 2
+ </P>
+ <P>
+ Paragraph 3
+ </P>
+ </BODY>
+Fully-Specified
+
+Example 2:
+ <BODY>
+ Paragraph 1
+ <P>
+ Paragraph 2
+ <P>
+ Paragraph 3
+ </BODY>
+Equivalent with Implied Tags

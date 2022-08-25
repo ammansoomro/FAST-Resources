@@ -1,0 +1,12 @@
+
+W3C XHTML Validation Service
+============================
+
+Validating an XHTML document. (Courtesy of World Wide Web Consortium (W3C).)
+
+https://validator.w3.org/
+
+Lets enter http://alphapeeler.sourceforge.net/index.htm here and analyse the results.
+
+.. pause ..
+

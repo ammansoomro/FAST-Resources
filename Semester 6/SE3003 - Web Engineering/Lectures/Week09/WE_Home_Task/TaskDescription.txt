@@ -1,0 +1,6 @@
+Task 1: Object-Oriented PHP task – Learn by coding the following example of a Person class in PHP using XAMPP server:
+mylib.php 
+OOP-PHPex01.php
+After coding place the files in web root of your web server and test it by displaying the output. Capture the screen shots and also write a summary about what object oriented you have learned via this example in Summary.docx of MS Word. 
+============
+Task 2: Create a simple address book using php/mysql/html. Sample code is given to you in your lab folder: (1) address.php (2) SQL.txt. Modify the example (php code + MySql DB) to include following attributes in MySQL: (1) ID, name, roll_number, cnic, phone, email, address. Populate DB with your actual record details and enter 3 roll numbers ahead of you and 3 roll numbers behind you in your actual class sequence. In case if your roll number is the first roll number in the class then you will enter 6 records ahead of you. Similarly, if your roll number is the last roll number in the class then you will enter 6 records behind you. Submit code + screenshots of the working web application + screenshots of the database after and before populating the records. Database name should be same as your roll_number. Submit all code (php), new db schema, sample data, and show screenshots of php scripts and database. 

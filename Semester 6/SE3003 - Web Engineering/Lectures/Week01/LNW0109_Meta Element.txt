@@ -1,0 +1,13 @@
+
+META Element
+============
+
+Records document information, forwards and refreshes pages
+NAME="author"
+NAME="keywords"
+NAME="description"
+HTTP-EQUIV="refresh"
+
+Example:
+<meta http-equiv="refresh" content="30;url=index.html">
+<meta http-equiv="refresh" content="30;url=new.html">
