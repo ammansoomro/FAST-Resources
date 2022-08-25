@@ -39,12 +39,13 @@ Semester 04:
 
 Semester 05:
 - Database Systems
-- Database Systems (Lab)
 - Computer Networks
-- Computer Networks (Lab)
 - Design and Analysis of Algorithms
 - Software Quality Engineering 
 - Technical Bussiness Writing
+- Numerical Computing
+- Database Systems (Lab)
+- Computer Networks (Lab)
 
 Semester 06:
 - Artificial Intelligence
@@ -52,5 +53,11 @@ Semester 06:
 - Software Construction and Development
 - Web Engineering
 - Business Process Engineering
-- Software Construction and Development (Lab)
 - Web Engineering
+- Software Engineering
+- Deep Learning for Perception (Elective)
+- Data Science (Elective)
+- Information Retrieval (Elective)
+- Software Construction and Development (Lab
+- Software Construction and Development (Lab)
+
