@@ -23,7 +23,8 @@ Semester 03:
 - Data Structures (Lab)
 - Human Computer Interaction
 - Linear Algebra
-- Psychology
+- Psychology (Elective)
+- Fundamentals Of Management (Elective)
 - Software Requirement Engineering
 
 Semester 04:
