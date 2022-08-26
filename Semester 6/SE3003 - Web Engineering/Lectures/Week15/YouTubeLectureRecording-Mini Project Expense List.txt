@@ -1,9 +1,0 @@
-
-React JS Lecture 06 - Mini Project Expense List part 1 49 minutes
-https://www.youtube.com/watch?v=D9eHV2mddDo
-https://github.com/Abdul-Rahman/ReactjsExpenseList
-
-
-React JS Lecture 07 - Mini Project Expense List part 2 - 58 minutes. 
-https://www.youtube.com/watch?v=8KmyI39QLZ8
-https://github.com/Abdul-Rahman/ReactjsExpenseList

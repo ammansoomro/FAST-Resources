@@ -1,9 +1,0 @@
-
-HTML Element / Tag
-==================
-
-<p align=“right”>   </p>
-
-<Element Attribute Name = "Attribute Value">
-
-

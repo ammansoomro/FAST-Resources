@@ -1,7 +1,0 @@
-.htm or .html
-==============
-* We can save an HTML file to either the .htm or .html file extension.
-* It might be a problem inherited from the past.
-	* Some commonly used software can only allow three character extensions.
-	* .txt , .doc , …
-

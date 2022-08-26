@@ -1,3 +1,0 @@
-React JS Lecture 09 | React Hooks Part 1 - 59 minutes. 
-https://www.youtube.com/watch?v=omAHvXFLTTI
-https://github.com/Abdul-Rahman/ReactHooksPart01

@@ -1,7 +1,0 @@
-splice and slice, join, splice, slice, push,pop,shift,unshift
-https://www.w3schools.com/js/js_array_methods.asp
-
-https://alligator.io/js/push-pop-shift-unshift-array-methods/
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice
-
