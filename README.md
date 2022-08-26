@@ -44,6 +44,7 @@ Semester 05:
 - Software Quality Engineering 
 - Technical Bussiness Writing
 - Numerical Computing
+- Theory of Automate
 - Database Systems (Lab)
 - Computer Networks (Lab)
 
@@ -58,6 +59,7 @@ Semester 06:
 - Deep Learning for Perception (Elective)
 - Data Science (Elective)
 - Information Retrieval (Elective)
+- Artificial Intelligence (Lab)
 - Software Construction and Development (Lab
 - Software Construction and Development (Lab)
 
