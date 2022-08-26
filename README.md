@@ -44,7 +44,7 @@ Semester 05:
 - Software Quality Engineering 
 - Technical Bussiness Writing
 - Numerical Computing
-- Theory of Automate
+- Theory of Automata
 - Database Systems (Lab)
 - Computer Networks (Lab)
 
