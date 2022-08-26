@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2&display=swap");
+
+body {
+    margin: 0;
+    font-family: "Baloo Bhaijaan 2", cursive;
+    background-color: #120221;
+    padding: 0;
+}
+
+.navbar {
+    display: flex;
+    color: #540BC2;
+    justify-content: space-between;
+    height: 100px;
+    display: flex;
+    background-color: #090112;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo>img {
+    margin-left: 10px;
+    width: 70px;
+    height: 70px;
+}
+
+.heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    width: 70%;
+    margin: 160px auto;
+    color: white;
+    height: 160px;
+}
+
+
+.inputfields {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.result {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    font-size: 35px;
+    color: #6316d6;
+    text-shadow:
+    0 0 51px #7322ec,
+    0 0 45px #7322ec,
+    0 0 18px #7322ec,
+
+
+    0 0 32px #6316d6,
+    0 0 82px #6316d6,
+    0 0 92px #6316d6,
+    0 0 102px #6316d6,
+    0 0 151px #6316d6;
+}
+
+input {
+    border: none;
+    background: #540BC2;
+    outline: none;
+    color: white;
+    text-align: center;
+    width: 10%;
+    border-radius: 4px;
+    height: 30px;
+    font-size: 16px;
+    font-family: "Baloo Bhaijaan 2", cursive;
+}
+
+select {
+    border: none;
+    background: transparent;
+    outline: none;
+    color: white;
+    text-align: center;
+    width: 40px;
+    font-size: 22px;
+    background-color: #540BC2;
+    border-radius: 10px;
+}
+
+select option {
+    background: #120221;
+}

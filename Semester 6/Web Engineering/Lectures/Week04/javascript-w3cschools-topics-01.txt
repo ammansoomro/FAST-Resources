@@ -1,0 +1,10 @@
+https://www.w3schools.com/js/js_dates.asp
+https://www.w3schools.com/js/js_date_formats.asp
+
+
+https://www.w3schools.com/js/js_json.asp
+
+http://jsonviewer.stack.hu/
+
+
+https://www.w3schools.com/js/tryit.asp?filename=tryjs_json_parse

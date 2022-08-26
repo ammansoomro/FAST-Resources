@@ -1,0 +1,12 @@
+Chapter No 01
+	Section 1.1 - 1.7 
+Chapter No 02
+	Section 2.0 - 2.6
+Chapter No 03
+	Section 3.0 - 3.7
+Chapter No 04
+	Section 4.0 - 4.5 
+Chapter No 05
+	Section 5.0 - 5.5
+Chapter No 06
+	Section 6.4 (Slides 39-78)

@@ -1,0 +1,18 @@
+
+Creating and Publishing a Web Page:
+===================================
+1. Create an HTML document 
+2. Place the document in a world-accessible directory (often  public_html or www) on a system running an HTTP server
+Unix> cd
+Unix> chmod a+x .   (Note the ".")
+Unix> mkdir public_html
+Unix> chmod a+x public_html
+3. Access the web page through http://hostname/~username/filename
+E.g. http://www.apl.jhu.edu/~lmb/test.html
+If the filename is omitted, a system default filename is assumed (often index.html)
+E.g. http://www.apl.jhu.edu/~hall/ refers to the file index.html in hall’s public_html directory
+
+---------------------
+Foot notes:
+Chmod a+x => assign execute to (a) all files in the directory
+Chmod : "r", "w", and "x" stand for "read", "write", and "execute", respectively.

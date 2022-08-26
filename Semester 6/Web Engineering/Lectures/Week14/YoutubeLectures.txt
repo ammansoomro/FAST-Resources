@@ -1,0 +1,31 @@
+Dear Students,
+I have uploaded the Compensation Lectures covered in makeup classes for ReactJS on YouTube, so that everyone of you can view it before coming to class on Tuesday. 
+
+React Lecture 4 - 25 minutes
+https://youtu.be/58HLWrkglt8
+(Content covered:  https://www.w3schools.com/REACT/DEFAULT.ASP
+06.React Render HTML
+07.React JSX
+08.React Components  )
+
+React Lecture 5: - 35 minutes. 
+https://youtu.be/kRCabdgndwk
+(Content covered:  https://www.w3schools.com/REACT/DEFAULT.ASP
+09.React Class Components
+09.1.Lifecycle of Components:
+09.2.Mounting
+09.2.1.constructor()
+09.2.2.getDerivedStateFromProps()
+09.2.3.render()
+09.2.4.componentDidMount()
+09.3.Updating
+09.3.1.getDerivedStateFromProps()
+09.3.2.shouldComponentUpdate()
+09.3.3.render()
+09.3.4.getSnapshotBeforeUpdate()
+09.3.5.componentDidUpdate()
+09.4.Unmounting
+09.4.1.componentWillUnmount()
+
+10.React Props
+
