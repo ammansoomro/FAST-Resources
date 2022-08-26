@@ -3,18 +3,18 @@ FAST NUCES Resources 2019 - 2022
 
 Semester 01:
 - Applied Physics
-- Calculus
-- English
+- Calculus and Analytical Geometry
+- English Composition and Comprehension
 - Pakistan Studies
 - Programming Fundamentals
 - Programming Fundamentals (Lab)
-- ICT (Lab)
+- Intro to Info. and Comm. Technologies (Lab)
 
 Semester 02:
 - Communication and Presentation Skills
 - Discrete Structures
 - Intro to Software Engineering
-- Islamiyat
+- Islamic and Religious Studies
 - Object Oritented Programming
 - Object Oritented Programming (Lab)
 
@@ -32,7 +32,7 @@ Semester 04:
 - Operating System (Lab)
 - Human Resource Management (Elective)
 - Probability and Statistics
-- Operations Research
+- Operations Research (Elective)
 - Software Design and Architecture
 - Software Design and Architecture (Lab)
 
@@ -42,8 +42,7 @@ Semester 05:
 - Computer Networks
 - Design and Analysis of Algorithms
 - Software Quality Engineering 
-- Technical Bussiness Writing
-- Numerical Computing
+- Technical and Business Writing
 - Theory of Automata
 - Database Systems (Lab)
 - Computer Networks (Lab)
